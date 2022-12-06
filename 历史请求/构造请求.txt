@@ -1,0 +1,13 @@
+根据输入参数文档和样例输入，编写一个 Python 函数，输入图像文件的路径，模型名称，返回结果数量，发送请求，输出服务器返回的结果：
+
+输入：
+image: 图片数据，base64 格式，可以是 jpg、png、bmp 的图片格式
+model_name: 模型名称，字符串
+top: 返回多少个结果，默认 3 个
+
+样例输入：
+{
+  "model_name": "cls_model",
+  "top": 3,
+  "image": "Qk32QwAAAAAAA..."
+}

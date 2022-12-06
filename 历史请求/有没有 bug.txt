@@ -1,0 +1,19 @@
+这段代码有没有 bug：
+
+predictor = Predictor()
+vis = Visualizer()
+predictor.load_model(model_path)
+img = cv2_read_img(r'C:\Projects\ocr\sonicOCR\imgs_words\ch\word_2.jpg')
+res = predictor.predict(img)
+vis.visualize(img, res)
+
+
+
+这段代码有没有 bug：
+
+predictor = Predictor()
+vis = Visualizer()
+predictor.load_model(model_path)
+img = cv2_read_img(r'C:\Projects\ocr\sonicOCR\imgs_words\ch\word_2.jpg')
+res = predictor.predict(img)
+visualizer.visualize(img, res)
