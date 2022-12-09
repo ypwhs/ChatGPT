@@ -1,4 +1,4 @@
-# 如何解除 ChatGPT 的思想钢印
+# 如何打破 ChatGPT 的思想钢印
 
 # OpenAI 的内容政策
 
