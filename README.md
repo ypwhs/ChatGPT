@@ -1,6 +1,9 @@
 # ChatGPT
- 
-[ChatGPT：全方位评测，揭示真实实力](文章/ChatGPT.md)
+
+文章：
+
+* [ChatGPT：全方位评测，揭示真实实力](文章/ChatGPT.md)
+* [如何打破 ChatGPT 的思想钢印](文章/HackChatGPT.md)
 
 素材在：
 
